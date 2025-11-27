@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Help Desk - FireStore
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application for a Help Desk, using FireStore.
+Tickets are followed by chats with attachments
 
-A few resources to get you started if this is your first Flutter project:
+<img width="432" height="767" alt="image" src="https://github.com/user-attachments/assets/8a2bc920-5d79-4687-ba70-d000519839f4" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
